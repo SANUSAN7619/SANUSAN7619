@@ -13,7 +13,7 @@
 ### 🌟 About Me
 
 - 🎓 Third-year Electronics and Communication student @ Muthoot Institute of Technology and Science  
-- 💡 Passionate about **embedded systems** and **sustainable innovations**
+- 💡 Passionate about **Embedded Systems** and **Sustainable Innovations**
 - 🛠️ Worked on:
 
   🍓Gesture-controlled bed for differently-abled individuals using **ESP32, MPU6050 & flex sensors**
