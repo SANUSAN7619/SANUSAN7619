@@ -22,7 +22,7 @@
 
 ### 📫 Let's Connect!
 
-- 📧 [sanjanasuresh630@gmail.com](mailto:sanjanasuresh630@gmail.com)
+- 📧 [Email Me](mailto:sanjanasuresh630@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjanasuresh7619/)
 
 ---
